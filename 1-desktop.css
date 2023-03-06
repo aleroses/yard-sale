@@ -1,0 +1,20 @@
+.logo {
+    display: block;
+}
+
+/* 3-login */
+.secondary-button {
+    width: 300px;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 24px;
+}
+
+/* 4-create account */
+.form-container {
+    height: 100%;
+}
+.form {
+    height: 100%;
+    justify-content: space-between;
+}
