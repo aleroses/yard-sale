@@ -31,3 +31,26 @@
     width: 140px;
     height: 140px;
 }
+
+/* 11.navbar */
+
+.menu {
+    display: block;
+  }
+  .navbar-left ul {
+    display: none;
+  }
+  .navbar-email {
+    display: none;
+  }
+
+/* 12.product */
+  .product-detail {
+    width: 100%;
+}
+
+
+/* 13.carrito */
+.product-detail {
+  width: 100%;
+}
